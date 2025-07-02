@@ -1,4 +1,4 @@
-module github.com/xrodazxx/Auth_Kurka
+module Auth_Kurka
 
 go 1.23.0
 
